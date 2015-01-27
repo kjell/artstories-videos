@@ -1,6 +1,6 @@
 rename:
 	rename --nows *
-	rename --nows **
+	rename --nows */*
 
 thumbnails:
 	find . -name "*.mp4" | grep -v scratch | while read video; do \
