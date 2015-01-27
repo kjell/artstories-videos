@@ -70,6 +70,10 @@ http://cdn.dx.artsmia.org/videos/artstories/Two_Minutes_with_the_Curator-_Portra
 http://cdn.dx.artsmia.org/videos/artstories/Art_of_Bobbin_Lace_-_Pieceful_Quilter.mp4
 http://cdn.dx.artsmia.org/videos/artstories/Learn_How_To_Use_a_Spiders_Web_Filling_Stitch.mp4
 
+# Rice_farming_in_four_seasons
+http://cdn.dx.artsmia.org/videos/artstories/clip1.mp4
+http://cdn.dx.artsmia.org/videos/artstories/clip2.mp4
+
 # Santos_Dumont
 http://cdn.dx.artsmia.org/videos/artstories/Kehinde_Wiley_'The_World_Stage-_Jamaica'_at_Stephen_Friedman_Gallery_London-HD.mp4
 
@@ -86,6 +90,7 @@ http://cdn.dx.artsmia.org/videos/artstories/Do_Ho_Suh_Preview_from_Season_2_of_A
 
 # Tahkt-I-Sulayman_Variati
 http://cdn.dx.artsmia.org/videos/artstories/Frank_Stella_-_1972.mp4
+http://cdn.dx.artsmia.org/videos/artstories/Museum_in_Motion-_Hanging_Tahkt-I-Sulayman_Variation_II.mp4
 
 # Tapestry
 http://cdn.dx.artsmia.org/videos/artstories/Tapestry_Weaving_in_Laos.mp4
