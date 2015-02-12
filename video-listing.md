@@ -53,6 +53,7 @@ http://cdn.dx.artsmia.org/videos/artstories/300_VJ00639000_141.mp4
 
 # Incomplete_Open_Cube
 http://cdn.dx.artsmia.org/videos/artstories/Sol_LeWitt's_Incomplete_Open_Cubes.mp4
+http://cdn.dx.artsmia.org/videos/artstories/MET_hanging_tapestry.mp4
 
 # Masterpiece_cup_and_cove
 LaunchPad-_Silversmithing,_Part_3â\200\224Casting_Silver.mp4
@@ -81,6 +82,7 @@ http://cdn.dx.artsmia.org/videos/artstories/Kehinde_Wiley_'The_World_Stage-_Jama
 http://cdn.dx.artsmia.org/videos/artstories/William_Kentridge's_production_of_The_Nose_(Met_Opera).mp4
 http://cdn.dx.artsmia.org/videos/artstories/William_Kentridge-_Composer_Philip_Miller_-_Art21_'Exclusive'.mp4
 http://cdn.dx.artsmia.org/videos/artstories/William_Kentridge-_Pain_&_Sympathy_-_Art21_'Exclusive'.mp4
+http://cdn.dx.artsmia.org/videos/artstories/William_Kentridge_on_his_process.mp4
 
 # Shiva_Nataraja
 http://cdn.dx.artsmia.org/videos/artstories/Shankara_Sri_Giri_MIA-HD.mp4
